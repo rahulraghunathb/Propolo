@@ -1,6 +1,6 @@
 # Frontend
 
-Expo React Native scaffold for the PG rent collection MVP.
+Expo React Native scaffold for Propolo.
 
 ## Included
 
@@ -16,4 +16,3 @@ Once designs are ready, we can replace the placeholder screens and wire the exis
 - `useInitializeApp()`
 - `useDashboard()`
 - `usePayments()`
-

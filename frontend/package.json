@@ -1,5 +1,5 @@
 {
-  "name": "pg-rent-mvp-frontend",
+  "name": "propolo-frontend",
   "version": "1.0.0",
   "private": true,
   "main": "expo-router/entry",
@@ -11,19 +11,21 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "expo": "~53.0.0",
-    "expo-router": "~5.0.0",
-    "expo-sqlite": "~15.0.0",
-    "expo-status-bar": "~2.2.3",
-    "react": "19.0.0",
-    "react-native": "0.79.0",
-    "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.11.1",
-    "dayjs": "^1.11.13"
+    "dayjs": "^1.11.13",
+    "expo": "^54.0.0",
+    "expo-constants": "~18.0.13",
+    "expo-linking": "~8.0.11",
+    "expo-router": "~6.0.23",
+    "expo-sqlite": "~16.0.10",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0"
   },
   "devDependencies": {
-    "@types/react": "~19.0.10",
-    "typescript": "~5.8.3"
+    "@types/react": "~19.1.10",
+    "babel-preset-expo": "~54.0.10",
+    "typescript": "~5.9.2"
   }
 }
-

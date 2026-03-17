@@ -1,5 +1,5 @@
 import * as SQLite from "expo-sqlite";
 
-const databaseName = "pg-rent-mvp.db";
+const databaseName = "propolo.db";
 
 export const db = SQLite.openDatabaseSync(databaseName);
